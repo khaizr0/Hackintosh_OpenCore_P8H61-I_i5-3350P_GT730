@@ -18,11 +18,17 @@ Hackintosh on Asus P8H61-I with i5 3350P and GT730 1GB DDR5
 
 # Hackintosh Spec:
 Main Asus P8H61-I (Ver 0909)
+
 Intel Core i5 3350P
+
 GT730 1GB DDR5
+
 8GB DDR3 ram
+
 VIA VT 1708s
+
 Ethernet RTL8111
+
 ## Working
 - Native Power Management
 - Bluetooth
