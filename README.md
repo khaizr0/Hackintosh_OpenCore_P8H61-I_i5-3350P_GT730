@@ -28,7 +28,6 @@ Ethernet RTL8111
 - Bluetooth
 - USB ports
 - Internal Audio & Microphone
-- Sleep/Wake
 - Ethernet
 - Battery
 - Icloud/Facetime/imessage
