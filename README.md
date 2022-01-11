@@ -35,7 +35,6 @@ Ethernet RTL8111
 - USB ports
 - Internal Audio & Microphone
 - Ethernet
-- Battery
 - Icloud/Facetime/imessage
 - etc
 ## Untesting: Sleep/Wake
